@@ -23,6 +23,7 @@ Yatzy: Try to get all dice showing the same number. Awards 50 points.
 
 **
 Implementation Details**
+
 The scoring pad is to be implemented with a dictionary containing each category and a score associated to the category.
 The die is to be implemented using a generator.
 Each category is to be implemented using a separate function (one function/category)
